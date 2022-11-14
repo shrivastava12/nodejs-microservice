@@ -8,6 +8,6 @@
     "entities":[
         "src/entity/*js"
     ],
-    "logging":true,
+    "logging":false,
     "synchronize":true
 }
